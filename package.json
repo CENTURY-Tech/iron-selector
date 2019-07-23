@@ -1,0 +1,8 @@
+{
+  "name": "iron-selector",
+  "version": "1.5.4",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1"
+  },
+  "private": true
+}
